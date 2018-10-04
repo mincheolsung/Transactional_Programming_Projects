@@ -1,3 +1,6 @@
 [submodule "Invyshwell"]
 	path = Invyshwell
 	url = https://github.com/mincheolsung/Invyshwell
+[submodule "Final_project/submission/Invyshwell"]
+	path = Final_project/submission/Invyshwell
+	url = https://github.com/mincheolsung/Invyshwell
