@@ -4,3 +4,6 @@
 [submodule "Final_project/submission/Invyshwell"]
 	path = Final_project/submission/Invyshwell
 	url = https://github.com/mincheolsung/Invyshwell
+[submodule "Final_project/submission/Invyswell"]
+	path = Final_project/submission/Invyswell
+	url = https://github.com/mincheolsung/Invyswell
